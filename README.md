@@ -8,3 +8,5 @@ Une fois cela fait, on se replace a la racine du projet pour lancer :
 docker compose up -d --build
 
 Et le tour est joue !
+
+Tous les endpoints disponibles sont au endpoint http://IP:PORT/swagger-ui.html
